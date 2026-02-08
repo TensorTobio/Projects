@@ -1,1 +1,30 @@
+🌍 This project analyzes global GDP growth data from 1980–2024 to understand long-term economic patterns and how countries respond to major global crises.
 
+📊 The dataset contains annual GDP growth rates by country and is cleaned and reshaped into a time-series format for analysis using Python.
+
+🛠️ Tools used:
+
+pandas & numpy for data cleaning and calculations
+
+matplotlib for visualization
+
+scikit-learn for clustering and PCA
+
+statsmodels for time-series forecasting
+
+📈 What the project does:
+
+Computes long-term growth statistics (average growth, volatility, recession frequency)
+
+Measures impact of major crises (2008 financial crisis, COVID-19 in 2020)
+
+Groups countries into growth regimes using K-Means clustering
+
+Visualizes patterns with PCA and time-series plots
+
+Forecasts short-term GDP growth using ARIMA
+
+💡 Key idea:
+Countries do not grow the same way — they fall into different growth regimes such as stable, volatile, and crisis-sensitive economies.
+
+🚀 This project combines economic reasoning with data science techniques to study resilience, volatility, and recovery patterns in a clear and interpretable way.
