@@ -1,4 +1,4 @@
-# 🏀 SportsBetty: AI-Powered Sports Prediction & Behavioral Analytics Platform
+# 🏀 SportsBetty: AI-Powered Sports Prediction & Behavioral Analytics Platform (Prototype 1)
 
 ## Overview
 
